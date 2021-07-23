@@ -1,6 +1,6 @@
 *, *::before, *::after {
   box-sizing: border-box;
-  font-family: Comic Sans MS;
+  font-family: "Comic Sans MS";
   font-weight: normal;
 }
 
